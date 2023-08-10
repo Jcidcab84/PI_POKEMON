@@ -2,6 +2,10 @@
 const express = require('express');
 const router = express.Router();
 
+//Express y Router
+const express = require('express');
+const router = express.Router();
+
 //Importaciones de rutas
 const pokeRoute = require('./pokemonRoutes');
 const typeRoute = require('./typeRoutes');
